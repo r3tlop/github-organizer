@@ -404,14 +404,6 @@ Algunas mejoras planeadas son:
 
 
 
-\## Licencia
-
-
-
-Este proyecto utiliza la licencia \*\*MIT\*\*.
-
-
-
 Puedes consultar los términos completos en el archivo `LICENSE`.
 
 

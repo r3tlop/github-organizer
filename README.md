@@ -401,10 +401,3 @@ Algunas mejoras planeadas son:
 
 
 \## Autor: \[@r3tlop](https://github.com/r3tlop)
-
-
-
-Puedes consultar los términos completos en el archivo `LICENSE`.
-
-
-

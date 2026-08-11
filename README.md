@@ -182,13 +182,13 @@ Al ejecutar el programa se muestra un menú principal:
 
 =================================
 
-&#x20;                                
+                                
 
-&#x20;  ORGANIZADOR DE REPOSITORIOS   
+  ORGANIZADOR DE REPOSITORIOS   
 
-&#x20;          PARA GITHUB           
+          PARA GITHUB           
 
-&#x20;                                
+                                
 
 =================================
 

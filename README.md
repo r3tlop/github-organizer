@@ -76,7 +76,7 @@ nombre-del-proyecto/
 
 ├── tests/
 
-│   └── tests\_main.py
+│   └── tests_main.py
 
 │
 
@@ -128,7 +128,7 @@ No requiere la instalación de librerías externas.
 
 ```bash
 
-git clone https://github.com/TU-USUARIO/organizador-repositorios.git
+git clone https://github.com/TU-USUARIO/github-organizer.git
 
 ```
 
@@ -182,21 +182,21 @@ Al ejecutar el programa se muestra un menú principal:
 
 =================================
 
-&#x20;                                
+                                
 
-&#x20;  ORGANIZADOR DE REPOSITORIOS   
+  ORGANIZADOR DE REPOSITORIOS   
 
-&#x20;          PARA GITHUB           
+          PARA GITHUB           
 
-&#x20;                                
+                                
 
 =================================
 
 Selecciona una opcion.
 
-1\. Crear repositorio
+1. Crear repositorio
 
-2\. Salir del organizador
+2. Salir del organizador
 
 ```
 
@@ -212,7 +212,7 @@ Selecciona la opción:
 
 ```text
 
-1\. Crear repositorio
+1. Crear repositorio
 
 ```
 
@@ -272,7 +272,7 @@ Selecciona:
 
 ```text
 
-2\. Salir del organizador
+2. Salir del organizador
 
 ```
 
@@ -304,13 +304,13 @@ Se encarga del menú principal y de recibir la opción seleccionada por el usuar
 
 ```python
 
-from organizador import crear\_repositorio as repo
+from organizador import crear_repositorio as repo
 
 ```
 
 
 
-La función `ingresar\_valor()` valida que la opción introducida sea un número y determina qué acción ejecutar.
+La función `ingresar_valor()` valida que la opción introducida sea un número y determina qué acción ejecutar.
 
 
 
@@ -324,7 +324,7 @@ Contiene la función:
 
 ```python
 
-crear\_repositorio()
+crear_repositorio()
 
 ```
 
@@ -401,18 +401,3 @@ Algunas mejoras planeadas son:
 
 
 \## Autor: \[@r3tlop](https://github.com/r3tlop)
-
-
-
-\## Licencia
-
-
-
-Este proyecto utiliza la licencia \*\*MIT\*\*.
-
-
-
-Puedes consultar los términos completos en el archivo `LICENSE`.
-
-
-
